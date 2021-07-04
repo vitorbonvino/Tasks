@@ -1,0 +1,28 @@
+object fProvaDelphiApp: TfProvaDelphiApp
+  Left = 0
+  Top = 0
+  Caption = 'ProvaDelphiApp'
+  ClientHeight = 411
+  ClientWidth = 852
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PopupMenu = pmenuPrincipal
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pmenuPrincipal: TPopupMenu
+    Left = 560
+    Top = 176
+    object pmenuTarefa1: TMenuItem
+      Caption = 'Tarefa 1'
+    end
+    object pmenuTarefa2: TMenuItem
+      Caption = 'Tarefa 2'
+    end
+  end
+end

@@ -1,0 +1,24 @@
+program ProvaDelphiApp;
+
+uses
+  Vcl.Forms,
+  ufProvaDelphiApp in 'ufProvaDelphiApp.pas' {fProvaDelphiApp},
+  Vcl.Themes,
+  Vcl.Styles,
+  T1.Model.Colunas in '..\Tarefa1\T1.Model.Colunas.pas',
+  T1.Model.Condicoes in '..\Tarefa1\T1.Model.Condicoes.pas',
+  T1.Model.Factory in '..\Tarefa1\T1.Model.Factory.pas',
+  T1.Model.Interfaces in '..\Tarefa1\T1.Model.Interfaces.pas',
+  T1.Model.Tabelas in '..\Tarefa1\T1.Model.Tabelas.pas',
+  T1.View.Main in '..\Tarefa1\T1.View.Main.pas' {ufTarefa1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Windows10 Blue');
+  Application.CreateForm(TfProvaDelphiApp, fProvaDelphiApp);
+  Application.CreateForm(TufTarefa1, ufTarefa1);
+  Application.Run;
+end.

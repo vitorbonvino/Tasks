@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/21 22:20:47.000.395,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/03 22:17:32.000.307,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 23:46:46.000.368,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/26 13:33:57.000.926,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 18:48:03.000.225,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/04 19:03:17.525,=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/04 19:12:58.910,D:\Softplan\Projeto\ufProvaDelphiApp.dfm=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/04 19:12:58.910,D:\Softplan\Projeto\ufProvaDelphiApp.pas=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/04 19:13:07.545,D:\Softplan\Projeto\ProvaDelphiApp.dproj=C:\Users\WildCard\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/04 19:26:01.387,=D:\Softplan\Tarefa1\Q2.Model.Colunas.pas</Transaction>
+    <Transaction>2021/07/04 19:26:01.403,=D:\Softplan\Tarefa1\Q2.Model.Condicoes.pas</Transaction>
+    <Transaction>2021/07/04 19:26:01.421,=D:\Softplan\Tarefa1\Q2.Model.Factory.pas</Transaction>
+    <Transaction>2021/07/04 19:26:01.438,=D:\Softplan\Tarefa1\Q2.Model.Interfaces.pas</Transaction>
+    <Transaction>2021/07/04 19:26:01.454,=D:\Softplan\Tarefa1\Q2.Model.Tabelas.pas</Transaction>
+    <Transaction>2021/07/04 19:26:01.520,=D:\Softplan\Tarefa1\Q2.View.Main.pas</Transaction>
+    <Transaction>2021/07/04 19:26:17.298,D:\Softplan\Tarefa1\Q1.Model.Colunas.pas=D:\Softplan\Tarefa1\Q2.Model.Colunas.pas</Transaction>
+    <Transaction>2021/07/04 19:26:21.741,D:\Softplan\Tarefa1\Q1.Model.Condicoes.pas=D:\Softplan\Tarefa1\Q2.Model.Condicoes.pas</Transaction>
+    <Transaction>2021/07/04 19:26:24.641,D:\Softplan\Tarefa1\Q.Model.Factory.pas=D:\Softplan\Tarefa1\Q2.Model.Factory.pas</Transaction>
+    <Transaction>2021/07/04 19:26:27.729,D:\Softplan\Tarefa1\Q1.Model.Factory.pas=D:\Softplan\Tarefa1\Q.Model.Factory.pas</Transaction>
+    <Transaction>2021/07/04 19:26:31.275,D:\Softplan\Tarefa1\Q1.Model.Interfaces.pas=D:\Softplan\Tarefa1\Q2.Model.Interfaces.pas</Transaction>
+    <Transaction>2021/07/04 19:26:34.787,D:\Softplan\Tarefa1\Q1.Model.Tabelas.pas=D:\Softplan\Tarefa1\Q2.Model.Tabelas.pas</Transaction>
+    <Transaction>2021/07/04 19:26:38.360,D:\Softplan\Tarefa1\Q1.View.Main.pas=D:\Softplan\Tarefa1\Q2.View.Main.pas</Transaction>
+    <Transaction>2021/07/04 19:26:38.360,D:\Softplan\Tarefa1\Q1.View.Main.dfm=D:\Softplan\Tarefa1\Q2.View.Main.dfm</Transaction>
+    <Transaction>2021/07/04 19:29:35.948,D:\Softplan\Tarefa1\T1.Model.Colunas.pas=D:\Softplan\Tarefa1\Q1.Model.Colunas.pas</Transaction>
+    <Transaction>2021/07/04 19:29:39.921,D:\Softplan\Tarefa1\T1.Model.Condicoes.pas=D:\Softplan\Tarefa1\Q1.Model.Condicoes.pas</Transaction>
+    <Transaction>2021/07/04 19:29:45.964,D:\Softplan\Tarefa1\T1.Model.Factory.pas=D:\Softplan\Tarefa1\Q1.Model.Factory.pas</Transaction>
+    <Transaction>2021/07/04 19:29:49.927,D:\Softplan\Tarefa1\T1.Model.Interfaces.pas=D:\Softplan\Tarefa1\Q1.Model.Interfaces.pas</Transaction>
+    <Transaction>2021/07/04 19:29:54.673,D:\Softplan\Tarefa1\T1.Model.Tabelas.pas=D:\Softplan\Tarefa1\Q1.Model.Tabelas.pas</Transaction>
+    <Transaction>2021/07/04 19:29:58.270,D:\Softplan\Tarefa1\T1.View.Main.pas=D:\Softplan\Tarefa1\Q1.View.Main.pas</Transaction>
+    <Transaction>2021/07/04 19:29:58.270,D:\Softplan\Tarefa1\T1.View.Main.dfm=D:\Softplan\Tarefa1\Q1.View.Main.dfm</Transaction>
+    <Transaction>2021/07/04 19:32:05.278,=D:\Softplan\Tarefa2\uTarefa2.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="D:\Softplan"/>
+    <File Path="..\Tarefa1"/>
+    <File Path="..\Tarefa1\T1.Model.Colunas.pas"/>
+    <File Path="..\Tarefa1\T1.Model.Condicoes.pas"/>
+    <File Path="..\Tarefa1\T1.Model.Factory.pas"/>
+    <File Path="..\Tarefa1\T1.Model.Interfaces.pas"/>
+    <File Path="..\Tarefa1\T1.Model.Tabelas.pas"/>
+    <File Path="..\Tarefa1\T1.View.Main.pas"/>
+    <File Path="..\Tarefa1\T1.View.Main.dfm"/>
+    <File Path="..\Tarefa2"/>
+    <File Path="..\Tarefa2\uTarefa2.pas"/>
+    <File Path="..\Tarefa2\uTarefa2.dfm"/>
+    <File Path="ufProvaDelphiApp.pas"/>
+    <File Path="ufProvaDelphiApp.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

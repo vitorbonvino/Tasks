@@ -1,0 +1,14 @@
+program ProvaDelphiApp;
+
+uses
+  Vcl.Forms,
+  ufProvaDelphiApp in 'ufProvaDelphiApp.pas' {fProvaDelphiApp};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfProvaDelphiApp, fProvaDelphiApp);
+  Application.Run;
+end.

@@ -1,0 +1,17 @@
+program ProvaDelphiApp;
+
+uses
+  Vcl.Forms,
+  ufProvaDelphiApp in 'ufProvaDelphiApp.pas' {fProvaDelphiApp},
+  Vcl.Themes,
+  Vcl.Styles;
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Windows10 Blue');
+  Application.CreateForm(TfProvaDelphiApp, fProvaDelphiApp);
+  Application.Run;
+end.
